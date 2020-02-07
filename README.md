@@ -21,8 +21,8 @@
 	void bitmap_DrawPixel(unsigned char *gram, unsigned int x, unsigned int y, unsigned char mask);
 ```
 > gram : 需要操作的缓冲区  
-> (x, y) : 像素的位置  	
-> mask : 置一或清零
+> (x, y) : 像素的位置  
+> mask : 置一或清零  
 
 3. 显示一个字符  
 ```
