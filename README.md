@@ -4,7 +4,7 @@
 
 # 目录简介
 
-*Easy_Bitmap文件夹是库文件的本体*
+*Easy_Bitmap.c/h 库文件的本体*
 
 *Easy_Font是支持的字体格式*
 
